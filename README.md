@@ -1,8 +1,8 @@
-Solidity-Project
+####Solidity-Project
 About Code
 This Solidity programs are some simple "Hello World" to "CREATING A ERC20 TOKEN" program that demonstrates the basic syntax and functionality of the Solidity programming language.
 
-Getting Started
+#Getting Started#
 Executing program (SAME FOR ALL)
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
